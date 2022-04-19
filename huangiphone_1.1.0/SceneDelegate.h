@@ -1,0 +1,15 @@
+//
+//  SceneDelegate.h
+//  huangiphone_1.1.0
+//
+//  Created by huangguangxi on 2022/3/29.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
+
+@property (strong, nonatomic) UIWindow * window;
+
+@end
+
